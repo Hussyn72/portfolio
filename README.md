@@ -11,7 +11,7 @@ Live Website: **[mohdhusaindarji.eu.org](http://mohdhusaindarji.eu.org)**
 
 - **About Me** – A brief introduction about who I am and what I do.
 - **Projects Showcase** – Featuring some of my best works:
-    - Amazon SP-API Integrations  
+    - Amazon SP-API Integrations.  
     - Logistics APIs (Shiprocket, Bluedart)
     - SIMMIS (SIM Management System)
     - Automation Scripts
