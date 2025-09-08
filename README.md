@@ -14,7 +14,7 @@ Live Website: **[mohdhusaindarji.eu.org](http://mohdhusaindarji.eu.org)**
     - Amazon SP-API Integrations.  
     - Logistics APIs (Shiprocket, Bluedart)
     - SIMMIS (SIM Management System)
-    - Automation Scripts
+    - Automation Scripts.
     - Elitemobile API Integration
 - **Tech Skills** – A quick overview of my stack.
 - **Contact Section** – Easy ways to connect with me.
